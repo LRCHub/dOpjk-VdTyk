@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "366日 (Rerecorded)",
+  "base_artist": "HY",
+  "createdAt": "2026-03-09T06:34:10.596316Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "366日",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/01_366日_HY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "366日",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/02_366日_HY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "366日",
+      "artist": "清水 翔太 feat.仲宗根 泉(HY)",
+      "has_synced": true,
+      "path": "select/03_366日_清水_翔太_feat.仲宗根_泉(HY).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "366日",
+      "artist": "Mone Kamishiraishi",
+      "has_synced": true,
+      "path": "select/04_366日_Mone_Kamishiraishi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "366日",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/05_366日_HY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "366日",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/06_366日_HY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "366日 (Rerecorded)",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/07_366日_(Rerecorded)_HY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "366日",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/08_366日_HY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "366日 - Rerecorded",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/09_366日_-_Rerecorded_HY.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "366日",
+      "artist": "May J.",
+      "has_synced": true,
+      "path": "select/10_366日_May_J..lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "清水 翔太 feat.仲宗根 泉(HY)　『366日 Short Ver.』 (feat. Shota Shimizu)",
+      "artist": "RIRI",
+      "has_synced": true,
+      "path": "select/11_清水_翔太_feat.仲宗根_泉(HY)_『366日_Short_Ver.』_(feat._Shota_Shimizu)_RIRI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "366日 - 366 Days (feat. Takuya Ohashi)",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/12_366日_-_366_Days_(feat._Takuya_Ohashi)_HY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "「366日」 Live Music Video",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/13_「366日」_Live_Music_Video_HY.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "366日 - 366nichi (feat. Izumi Nakasone)",
+      "artist": "Shota Shimizu",
+      "has_synced": true,
+      "path": "select/14_366日_-_366nichi_(feat._Izumi_Nakasone)_Shota_Shimizu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "366日 (Official Duet ver.)",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/15_366日_(Official_Duet_ver.)_HY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "366日",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/pl_01_366日_HY.txt"
+    }
+  ]
+}
